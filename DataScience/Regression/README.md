@@ -26,8 +26,11 @@ You learn that Retailer X recently conducted some customer research around custo
 By completing this skill learning journey you should be able to:
 
 1- Regression as a supervised learning technique.
+
 2- Linear regression models.
+
 3- Evaluating the performance of linear regression.
+
 4- Applying linear regression in the Python Pandas to Retailer X use case.
 
 
@@ -43,7 +46,11 @@ Like the previous courses “Classification” and “Cluster Analysis”, you a
 Regression is a supervised learning model that follows the same approach as classification. These steps describe at a high level what you are implementing by using code:
 
 1- Select the input variables and put them in to a Pandas data frame.
+
 2- Scale all input variables to a 0 - 1 range.
+
 3- Create an 80 - 20 training split.
+
 4- Train a linear regression model on the training set.
+
 5- Predict the total spending for the testing set and calculate the error between the predicted and actual values.
